@@ -1005,11 +1005,6 @@ display: inline;
 .keep-in-touch  h2{
   margin-top: 0;
 }
-.keep-in-touch .twolinesImg{
-  display: block;
-  margin-left: 45px;
-  margin-bottom: 50px;
-}
 .keep-in-touch .row .col-lg-6 form{
   width: 70%;
 }
@@ -1053,9 +1048,6 @@ display: inline;
   .keep-in-touch  h2{
     margin: 30px auto 10px;
     text-align: center;
-  }
-  .keep-in-touch .twolinesImg{
-    margin: 10px auto;
   }
   .keep-in-touch .row .col-lg-6 form{
     margin: 0 auto;
